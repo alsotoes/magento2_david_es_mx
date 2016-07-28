@@ -1528,6 +1528,10 @@
 "Your search returns no results.","La búsqueda no da ningún resultado."
 "up to %s","hasta %s"
 "=====================Mage_Checkout","=====================Mage_Checkout"
+"View and edit cart","Ver y editar el carrito de compras",module,Magento_Checkout
+"You need to choose options for your item.","Usted necesita seleccionar una opcion para su item."
+"You added %s to your shopping cart.","Agregaste %s a tu carrito de compras."
+"You added %1 to your shopping cart.","Agregaste %1 a tu carrito de compras."
 "%s was added to your shopping cart.","%s se ha añadido a su carrito de compras."
 "%s was updated in your shopping cart.","Se actualizó %s en su carrito de compras."
 "(Excl. Tax)","(Sin impuestos)"
